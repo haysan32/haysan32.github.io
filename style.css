@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+
+body {
+  background-image: url("space-020.gif");
+}
+h1, h2, h3, li {
+  color: yellow;
+}
+#movie1 {
+  font-family: 'Fjalla One', sans-serif;
+}
+#movie2 {
+  font-family: 'Pacifico', cursive;
+}
+#movie3 {
+  font-family: 'Indie Flower', cursive;
+}
